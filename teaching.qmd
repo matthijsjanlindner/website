@@ -1,0 +1,44 @@
+---
+title: "Teaching"
+# Search-engine snippet and social-card text. Kept as raw metadata rather than a
+# `description:` key, because that key ALSO prints on the page as a visible
+# subtitle under the title.
+open-graph:
+  description: "Courses and teaching experience of Your Name."
+twitter-card:
+  description: "Courses and teaching experience of Your Name."
+include-in-header:
+  - text: |
+      <meta name="description" content="Courses and teaching experience of Your Name.">
+---
+
+## Thesis supervision
+
+- Master thesis Sociology 'Understanding political attitudes' — Semester 2, 2024-2025; 2025-2026 \[8 theses\]
+
+- Master thesis Public Administration — Semester 2, 2023-2024 \[4 theses\]
+
+- Bachelor thesis Sociology — Semester 2, 2018-2019; 2019-2020; 2020-2021 \[14 theses\]
+
+
+## Course teaching
+
+### Erasmus University Rotterdam (NL)
+
+- Design atelier \[Public Administration, master\] - semester 1, 2026-2027; tutorials
+
+- The social bases of politics \[SOC, master\] — Semester 1, 2021-2022; tutorials
+
+- Social science research in practice \[SOC, master\] — Semester 1, 2019-2020; 2020-2021; tutorials
+
+### University of Amsterdam (NL)
+
+- Qualitative analysis \[bachelor year 2\] — Semester 2, 2017-2018; tutorials, examination
+
+- Sociological skills \[bachelor year 1\] — Semester 1, 2017-2018; tutorials, course design
+
+- Introduction to sociology \[bachelor year 1\] — Semester 1, 2017-2018; tutorials, course design, examination
+
+- Social institutions and organisations \[bachelor year 1\] — Semester 2, 2016-2017; tutorials, examination
+
+## 

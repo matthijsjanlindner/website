@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+// Bootstrap/Bootswatch VARIABLES go here — this block is injected before the
+// theme, so these set the values the theme builds on. Examples:
+//
+//   $body-bg:    #FFFFFF;
+//   $body-color: #212529;
+//   $link-color: #0D6EFD;
+//   $navbar-bg:  #F8F9FA;
+//
+// Both cosmo and darkly @import a font from Google Fonts (Source Sans Pro and
+// Lato respectively) whether or not you use it. That is two render-blocking
+// requests per page and every visitor's IP handed to Google, which may matter
+// for GDPR at a European institution. Overriding the font stack does NOT stop
+// it — you need:
+//
+//   $web-font-path: false;
+//
+// and then a self-hosted @font-face below. Check with:
+//   grep -rl fonts.googleapis _site
+
+
+/*-- scss:rules --*/
+
+// Actual CSS rules go here.
+//
+// One gotcha: Quarto's own selectors usually carry an element qualifier, e.g.
+// `div.quarto-about-trestles .about-entity`. A classes-only override has lower
+// specificity and silently loses. Match the qualifier.
+//
+// This file is intentionally empty of rules, so the site renders in stock
+// Quarto styling. Add yours here.

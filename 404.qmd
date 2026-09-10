@@ -1,0 +1,23 @@
+---
+title: "Page not found"
+toc: false
+include-in-header:
+  - text: |
+      <meta name="description" content="This page does not exist.">
+---
+
+That page does not exist — it may have moved, or the link may be wrong.
+
+**The links below must stay absolute** (a leading `/`). A 404 page is served for
+any URL at any depth, so a relative link like `research.html` resolves against
+the missing path and breaks. `/research.html` always works.
+
+Note that Quarto rewrites these using the path in `site-url` from `_quarto.yml`.
+If `site-url` is wrong, every link on this page is wrong — set it before you
+publish, and check this page once the site is live.
+
+- [Home](/index.html)
+- [Research](/research.html)
+- [Teaching](/teaching.html)
+- [Outreach](/outreach.html)
+- [Contacts](/contacts.html)

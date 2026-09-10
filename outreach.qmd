@@ -1,0 +1,44 @@
+---
+title: "Outreach"
+# Search-engine snippet and social-card text. Kept as raw metadata rather than a
+# `description:` key, because that key ALSO prints on the page as a visible
+# subtitle under the title.
+open-graph:
+  description: "Public engagement, media and service by Your Name."
+twitter-card:
+  description: "Public engagement, media and service by Your Name."
+include-in-header:
+  - text: |
+      <meta name="description" content="Public engagement, media and service by Your Name.">
+---
+
+## Blogs and public contributions
+
+- [Sociale Vraagstukken](https://www.socialevraagstukken.nl/verborgen-betekenissen-achter-opvattingen-over-recht-op-uitkering/): Verborgen betekenissen achter opvattingen over ‘recht op uitkering \[Hidden meanings behind attitudes towards welfare entitlement\] (30-03-2026).
+
+- [Stuk Rood Vlees](https://stukroodvlees.nl/pijnlijke-keuzes-schuld-afschuiven-of-verantwoordelijkheid-nemen/): Pijnlijke keuzes: Schuld afschuiven of verantwoordelijkheid nemen? \[Painful trade-offs: shifting blame or taking responsibility? (13-10-2025). With Asya Zhelyazkova and Agnieszka Kanas.
+
+- [Erasmus University](https://www.eur.nl/nieuws/hoe-denken-nederlanders-over-sociale-zekerheid-en-het-basisinkomen): Hoe denken Nederlanders over sociale zekerheid en het basisinkomen? \[How do Dutch citizens think about welfare and a basic income?\] (13-11-2024).
+
+- [Stuk Rood Vlees](De betekenissen die Nederlanders aan verzorgingsstaatchauvinisme geven): De betekenissen die Nederlanders aan verzorgingsstaatchauvinisme geven \[The meanings Dutch citizens attribute to welfare chauvinism\] (08-03-2024). With Stijn Daenekindt, Willem de Koster and Jeroen van der Waal.
+
+- [Sociale Vraagstukken](https://www.socialevraagstukken.nl/bevordert-meer-informatie-over-ongelijkheid-steun-voor-basisinkomen/): Bevordert meer informatie over ongelijkheid steun voor basisinkomen? \[Does more information about inequality increase support for a basic income?\] (25-01-2024). With Jonathan Mijs, Willem de Koster and Jeroen van der Waal.
+
+## Media contributions
+
+- [Sprank magazine](https://sprankmagazine.nl/een-uitkering-ons-goed-recht/) (interview): Een uitkering: ons goed recht? \[A benefit, our rightful entitlement?\] (16-07-2026)
+
+- [Algemeen Dagblad](https://www.ad.nl/binnenland/expert-over-asielrellen-zorgen-gaan-niet-zozeer-om-komst-van-opvang-maar-om-onrust-die-het-met-zich-meebrengt~ad35d4ed/) (interview): Zorgen gaan niet zozeer om komst van opvang, maar om onrust die het met zich meebrengt \[Concerns are not so much about the arrival of the \[asylum-seeker\] facilities, but about the unrest it brings\] (19-05-2026)
+
+- [De Volkskrant](https://www.volkskrant.nl/columns-opinie/opinie-pijnlijke-keuzes-vragen-om-duidelijke-communicatie-naar-kiezers~be9828d0/) (op-ed): Pijnlijke keuzes vragen om duidelijke communicatie naar kiezers \[Painfull trade-offs require clear communication to voters\] (4-11-2025). With Asya Zhelyazkova and Agnieszka Kanas.
+
+- [Nederlands Dagblad](https://www.nd.nl/opinie/opinie/1145248/iets-terugdoen-voor-je-uitkering-of-dat-sociaal-is-is-niet-zo-d#closemodal) op-ed (by invitation): Iets terugdoen voor je uitkering. Of dat sociaal is, is niet zo duidelijk \[Giving something back for your benefit. Whether that is social, is not so clear\] (10-10-2022). With Willem de Koster and Jeroen van der Waal.
+
+## Service
+
+- Reviewer for *Journal of European Social Policy* (2026)
+- Reviewer for *Journal of European Public Policy* (2026)
+- Reviewer for *European Societies* (2025)
+- Reviewer for the *British Journal of Sociology* (2025)
+- Organiser for Early Career Lounge seminar series, *ECPR Standing Group Political Methodology* (2024 - present)
+- National coordinator of the Dutch delegation to ConSIMium (2026)

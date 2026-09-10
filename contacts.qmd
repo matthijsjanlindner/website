@@ -1,0 +1,35 @@
+---
+title: "Contact"
+toc: false
+# `jolla` is a centred, single-column about template — good for a contact page.
+# Icons come from Bootstrap Icons: https://icons.getbootstrap.com
+about:
+  template: jolla
+  links:
+    - icon: google-scholar
+      text: Scholar
+      href: https://scholar.google.com/citations?hl=nl&view_op=list_works&gmla=AKCpqFxj1eR6F3qLmgNuLa-Hvr41cpjkScZa5YUHNcqbebVe41MUPHb9oN7b51ojNOGMu2kRdl3foA7X54b5T_-lnlCtXBlCLQ&user=vP_SaDIAAAAJ
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0000-0003-4377-5968
+    - icon: mortarboard-fill
+      text: University page
+      href: https://pure.eur.nl/en/persons/thijs-lindner/
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/thijs-lindner-ab030757
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/thijslin.bsky.social
+open-graph:
+  description: "How to reach Your Name: email and profiles."
+twitter-card:
+  description: "How to reach Your Name: email and profiles."
+include-in-header:
+  - text: |
+      <meta name="description" content="How to reach Your Name: email and profiles.">
+---
+
+## [lindner\@essb.eur.nl](mailto:you@university.edu)
+
+Email is the best way to reach me. You can also find me here:

@@ -1,0 +1,54 @@
+---
+title: "Research"
+# Search-engine snippet and social-card text. Kept as raw metadata rather than a
+# `description:` key, because that key ALSO prints on the page as a visible
+# subtitle under the title.
+open-graph:
+  description: "Publications, working papers and conference presentations by Your Name."
+twitter-card:
+  description: "Publications, working papers and conference presentations by Your Name."
+include-in-header:
+  - text: |
+      <meta name="description" content="Publications, working papers and conference presentations by Your Name.">
+---
+
+## Peer-reviewed articles
+
+Meanings of contentious issues
+
+- **Lindner T** (2026) Mapping the meanings of welfare deservingness: A correlational class analysis of citizens' perceptions. *Journal of European Social Policy*.\
+  <https://doi.org/10.1177/09589287251414406>
+
+- **Lindner T**, Daenekindt S, De Koster W & Van der Waal J (2024) What do stances on immigrants' welfare entitlement mean? Evidence from a Correlational Class Analysis. *The British Journal of Sociology*, 75(3): 271-289.\
+  <https://doi.org/10.1111/1468-4446.13078>
+
+- **Lindner T**, De Koster W & Van der Waal J (2022) Different understandings of welfare benefits among the Dutch public: A focus group study. *Social Policy & Administration*, 56(7): 990-1005.\
+  <https://doi.org/10.1111/spol.12816>
+
+Responses to social policy information
+
+- **Lindner T**, Mijs JJB, De Koster W & Van der Waal J (2024) Does informing citizens about the non-meritocratic nature of inequality bolster support for a Universal Basic Income? Evidence from a population-based survey experiment. *European Societies*, 26(3): 575-603.\
+  <https://doi.org/10.1080/14616696.2023.2272263>
+
+Responses to governmental justification strategies
+
+- Zhelyazkova A, **Lindner T**, Heinkelmann-Wild T & Kanas A (2025) Shifting the blame or defending implementation: How do explanations shape the legitimacy of contested EU policies? *Governance*, 38(4): e70065.\
+  <https://doi.org/10.1111/gove.70065>
+
+Doctoral dissertation & synthesis articles
+
+- **Lindner T** (2024) *Understanding welfare attitudes: A cultural-sociological approach*. Doctoral dissertation. Erasmus University Rotterdam. ISBN: 978-94-6506-220-4.\
+  <https://pure.eur.nl/en/publications/understanding-welfare-attitudes-a-cultural-sociological-approach/>
+
+- **Lindner T** (2025) Een goed begrip van opvattingen over sociale zekerheid \[A sound understanding of welfare attitudes\]. *Mens & Maatschappij*, 100(3): 330-334.\
+  <https://doi.org/10.5117/MEM2025.3.006.LIND>
+
+- **Lindner T** (2024) Opvattingen over sociale zekerheid begrijpen: Een cultuursociologische aanpak \[Understanding welfare attitudes: A cultural-sociological approach\]. *Tijdschrift Sociologie*, 5: 92-99.\
+  <https://doi.org/10.38139/ts.92168>
+
+## Working papers
+
+- **Lindner T**, De Koster W & Van der Waal J (2026) Does exposure to information on ethnic minorities' greater welfare dependency affect attitudes to welfare and welfare recipients? A pre-registered, population-based survey experiment. *Paper presented at European Sociological Assocation Annual Conference* (26-08-2026), Warsaw, Poland.\
+  Preprint: <https://doi.org/10.31235/osf.io/6r32b_v2>
+
+## 
