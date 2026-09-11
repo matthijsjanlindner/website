@@ -52,7 +52,7 @@ website:
         text: Contacts
 
   page-footer:
-    left: "© 2026 Your Name"
+    left: "© 2026 Thijs Lindner"
     right: "Made with [Quarto](https://quarto.org)"
 
 format:
