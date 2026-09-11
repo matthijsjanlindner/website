@@ -20,7 +20,6 @@ include-in-header:
 
 - Bachelor thesis Sociology — Semester 2, 2018-2019; 2019-2020; 2020-2021 \[14 theses\]
 
-
 ## Course teaching
 
 ### Erasmus University Rotterdam (NL)

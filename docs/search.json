@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Institution — Programme, Year\nOne or two sentences on the course: level, size, your role, what it covers.\n\n\n\nInstitution — Programme, Year"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Institution — Programme, Year\nOne or two sentences on the course: level, size, your role, what it covers.\n\n\n\nInstitution — Programme, Year"
+  },
+  {
+    "objectID": "teaching.html#supervision",
+    "href": "teaching.html#supervision",
+    "title": "Teaching",
+    "section": "Supervision",
+    "text": "Supervision\n\nBachelor theses, Year–Year\nMaster theses, Year–Year"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Talk or event, Venue, Month Year\nBlog post or media appearance, Outlet, Month Year"
+  },
+  {
+    "objectID": "outreach.html#public-engagement",
+    "href": "outreach.html#public-engagement",
+    "title": "Outreach",
+    "section": "",
+    "text": "Talk or event, Venue, Month Year\nBlog post or media appearance, Outlet, Month Year"
+  },
+  {
+    "objectID": "outreach.html#service",
+    "href": "outreach.html#service",
+    "title": "Outreach",
+    "section": "Service",
+    "text": "Service\n\nReviewer for Journal Name, Year–present\nOrganiser, Workshop Name, Year"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "Email is the best way to reach me. You can also find me here:"
+  },
+  {
+    "objectID": "contacts.html#youuniversity.edu",
+    "href": "contacts.html#youuniversity.edu",
+    "title": "Contacts",
+    "section": "",
+    "text": "Email is the best way to reach me. You can also find me here:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thijs Lindner",
+    "section": "",
+    "text": "I am a political sociologist specializing in welfare attitudes, with a particular interest in how beliefs about immigration, economic redistribution, solidarity, deservingness, institutional trust, and political governance shape perceptions of policy legitimacy. Drawing on insights from cultural sociology, my research examines attitudes toward social and public policy, the meanings people attribute to contested political issues, and how citizens respond to policy interventions and governmental communication.\nI use both quantitative and qualitative methods including focus groups, survey experiments and statistical techniques for identifying different belief systems.\nMy research has been published in both general interest and specialist journals in the social sciences. I also contribute regularly to national media and specialized blogs.\nIn short, I spend a lot of time trying studying what people think, why they think it, and occasionally whether they really mean it."
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Thijs Lindner",
+    "section": "",
+    "text": "I am a political sociologist specializing in welfare attitudes, with a particular interest in how beliefs about immigration, economic redistribution, solidarity, deservingness, institutional trust, and political governance shape perceptions of policy legitimacy. Drawing on insights from cultural sociology, my research examines attitudes toward social and public policy, the meanings people attribute to contested political issues, and how citizens respond to policy interventions and governmental communication.\nI use both quantitative and qualitative methods including focus groups, survey experiments and statistical techniques for identifying different belief systems.\nMy research has been published in both general interest and specialist journals in the social sciences. I also contribute regularly to national media and specialized blogs.\nIn short, I spend a lot of time trying studying what people think, why they think it, and occasionally whether they really mean it."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Thijs Lindner",
+    "section": "Research interests",
+    "text": "Research interests\n\nWelfare attitudes\nDeservingness perceptions\nImmigration beliefs\nInstitutional trust\nPolicy communication\nPublic opinion"
+  },
+  {
+    "objectID": "index.html#current-project",
+    "href": "index.html#current-project",
+    "title": "Thijs Lindner",
+    "section": "Current project",
+    "text": "Current project\nI currently investigate citizens’ perceptions of different governmental approaches to justify contentious EU policies (immigration, climate change, and digital privacy)."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Meanings of contentious issues\n\nLindner T (2026) Mapping the meanings of welfare deservingness: A correlational class analysis of citizens’ perceptions. Journal of European Social Policy.\nhttps://doi.org/10.1177/09589287251414406\nLindner T, Daenekindt S, De Koster W & Van der Waal J (2024) What do stances on immigrants’ welfare entitlement mean? Evidence from a Correlational Class Analysis. The British Journal of Sociology, 75(3): 271-289.\nhttps://doi.org/10.1111/1468-4446.13078\nLindner T, De Koster W & Van der Waal J (2022) Different understandings of welfare benefits among the Dutch public: A focus group study. Social Policy & Administration, 56(7): 990-1005.\nhttps://doi.org/10.1111/spol.12816\n\nPublication lists here are written by hand rather than generated from a .bib file. That is deliberate: pandoc renders exactly one bibliography per page, so grouped and separately ordered sections — articles, then working papers, then conference papers — are not possible through the citation machinery. Hand-written entries also let you control the house style exactly.\nPick one format and apply it everywhere. For example:\n\nYour Name, & Coauthor, A. (2026). Title of the article. Journal Name, 12(3), 45–67. https://doi.org/10.0000/example\n\nNote the en dash in the page range (45–67), not a hyphen."
+  },
+  {
+    "objectID": "research.html#peer-reviewed-articles",
+    "href": "research.html#peer-reviewed-articles",
+    "title": "Research",
+    "section": "",
+    "text": "Meanings of contentious issues\n\nLindner T (2026) Mapping the meanings of welfare deservingness: A correlational class analysis of citizens’ perceptions. Journal of European Social Policy.\nhttps://doi.org/10.1177/09589287251414406\nLindner T, Daenekindt S, De Koster W & Van der Waal J (2024) What do stances on immigrants’ welfare entitlement mean? Evidence from a Correlational Class Analysis. The British Journal of Sociology, 75(3): 271-289.\nhttps://doi.org/10.1111/1468-4446.13078\nLindner T, De Koster W & Van der Waal J (2022) Different understandings of welfare benefits among the Dutch public: A focus group study. Social Policy & Administration, 56(7): 990-1005.\nhttps://doi.org/10.1111/spol.12816\n\nPublication lists here are written by hand rather than generated from a .bib file. That is deliberate: pandoc renders exactly one bibliography per page, so grouped and separately ordered sections — articles, then working papers, then conference papers — are not possible through the citation machinery. Hand-written entries also let you control the house style exactly.\nPick one format and apply it everywhere. For example:\n\nYour Name, & Coauthor, A. (2026). Title of the article. Journal Name, 12(3), 45–67. https://doi.org/10.0000/example\n\nNote the en dash in the page range (45–67), not a hyphen."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\nYour Name. (2026). Title of the working paper. Under review."
+  },
+  {
+    "objectID": "research.html#conference-papers",
+    "href": "research.html#conference-papers",
+    "title": "Research",
+    "section": "Conference papers",
+    "text": "Conference papers\n\nYour Name, & Coauthor, A. (2026). Title of the paper. Conference Name, City, 3–5 June 2026."
+  }
+]
