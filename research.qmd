@@ -16,29 +16,31 @@ include-in-header:
 
 Meanings of contentious issues
 
-- **Lindner T** (2026) Mapping the meanings of welfare deservingness: A correlational class analysis of citizens' perceptions. *Journal of European Social Policy*.\
-  <https://doi.org/10.1177/09589287251414406>
+- **Lindner T** (2026) Mapping the meanings of welfare deservingness: A correlational class analysis of citizens' perceptions. *Journal of European Social Policy*. <https://doi.org/10.1177/09589287251414406>\
+  Welfare deservingness concerns a simple but politically important (and contentious) question: who deserves welfare support, and why? In this article, I show that people who appear to hold similar views on this question often understand it in very different ways. For some, deservingness is primarily about economic redistribution; for others, it is linked to cultural orientations. Using original Dutch survey data (*n* = 2,131), I identify five distinct ways of thinking about welfare deservingness: conventional progressive versus conservative, (dis)trust of ethnic others, economic (anti-)chauvinism, moralized redistribution, and traditional versus inclusive solidarity. Each of these meanings includes people who favour stricter or more lenient welfare provision. The social bases of these meanings differ substantively, as groups with distinct characteristics adhere to them, based on differences in, for example, socioeconomic position, educational level, and political preferences. These findings reveal that different groups have fundamentally different things in mind when they think about the welfare deservingness of others.
 
-- **Lindner T**, Daenekindt S, De Koster W & Van der Waal J (2024) What do stances on immigrants' welfare entitlement mean? Evidence from a Correlational Class Analysis. *The British Journal of Sociology*, 75(3): 271-289.\
-  <https://doi.org/10.1111/1468-4446.13078>
+- **Lindner T**, Daenekindt S, De Koster W & Van der Waal J (2024) What do stances on immigrants' welfare entitlement mean? Evidence from a Correlational Class Analysis. *The British Journal of Sociology*, 75(3): 271-289. <https://doi.org/10.1111/1468-4446.13078>\
+  Research on welfare chauvinism typically distinguishes between people who support and oppose immigrants’ access to welfare benefits. This article shows that these positions can have very different meanings. Using survey data from a representative sample of the Dutch population (*n* = 2,218), it identifies five distinct ways of perceiving immigrants’ welfare entitlement: (1) conventional conservative- progressive; (2) economic exclusivist-inclusivist; (3) (dis)trust of ethnic others; (4) traditional communitarianism versus secular inclusivism; and (5) secular exclusivism-religiously inspired compassion. People who adhere to these different viewpoints substantially differ when it comes to income, education, religious denomination, and political preference.The findings show that meanings of welfare chauvinism relate in unique ways to the political mobilization of welfare and immigration.
 
-- **Lindner T**, De Koster W & Van der Waal J (2022) Different understandings of welfare benefits among the Dutch public: A focus group study. *Social Policy & Administration*, 56(7): 990-1005.\
-  <https://doi.org/10.1111/spol.12816>
+- **Lindner T**, De Koster W & Van der Waal J (2022) Different understandings of welfare benefits among the Dutch public: A focus group study. *Social Policy & Administration*, 56(7): 990-1005. <https://doi.org/10.1111/spol.12816>\
+  Why do people support or oppose welfare benefits? Drawing on focus group discussions with people from a wide range of social backgrounds (*n* = 48), this article argues that similar positions about welfare benefits can be rooted in very different understandings of what welfare is for. Three distinct perspectives emerged: welfare as self-responsibility and reciprocity; welfare as participation and solidarity; and welfare as well-being and self-actualization. The findings show that citizens’ perceptions of welfare are shaped by their ideas about work, deservingness, citizenship, and the role of the welfare state.
 
 Responses to social policy information
 
 - **Lindner T**, Mijs JJB, De Koster W & Van der Waal J (2024) Does informing citizens about the non-meritocratic nature of inequality bolster support for a Universal Basic Income? Evidence from a population-based survey experiment. *European Societies*, 26(3): 575-603.\
-  <https://doi.org/10.1080/14616696.2023.2272263>
+  <https://doi.org/10.1080/14616696.2023.2272263>\
+  Many advocates of a Universal Basic Income (UBI) argue that growing economic inequality strengthens the case for unconditional income support. This paper examines whether informing citizens about the extent to which economic success is shaped by factors beyond individual effort increases support for a UBI. Using a survey experiment among a representative sample of the Dutch population (*n* = 1,630), we show that exposure to information about wealth inequality and unequal opportunities for social mobility increases concern about inequality and support for economic redistribution. However, it does not increase support for a UBI. The findings suggest that citizens do not automatically see a UBI as the preferred solution to the non-meritocratic nature of inequality. Instead, support for the policy is more strongly rooted in broader beliefs about redistribution, economic equality, and welfare provision.
 
 Responses to governmental justification strategies
 
-- Zhelyazkova A, **Lindner T**, Heinkelmann-Wild T & Kanas A (2025) Shifting the blame or defending implementation: How do explanations shape the legitimacy of contested EU policies? *Governance*, 38(4): e70065.\
-  <https://doi.org/10.1111/gove.70065>
+- Zhelyazkova A, **Lindner T**, Heinkelmann-Wild T & Kanas A (2025) Shifting the blame or defending implementation: How do explanations shape the legitimacy of contested EU policies? *Governance*, 38(4): e70065. <https://doi.org/10.1111/gove.70065>\
+  How do citizens respond when governments implement unpopular or contested policies? This paper examines whether public acceptance depends not only on policy outcomes, but also on how authorities explain and justify their decisions. Focusing on the implementation of European Union policies, it compares different justification strategies, ranging from blaming external actors to defending by taking responsibility or signaling responsiveness. Using an original survey experiment conducted among respresentative samples of the German and Dutch population (*n* = 4,000), we find that blame-shifting by the national government is less effective than defending based on taking responsbility, and increases perceived policy legitimacy. More generally, the study highlights how citizens’ responses to public policy depend not only on what governments do, but also on how they communicate their decisions.
 
 Doctoral dissertation & synthesis articles
 
 - **Lindner T** (2024) *Understanding welfare attitudes: A cultural-sociological approach*. Doctoral dissertation. Erasmus University Rotterdam. ISBN: 978-94-6506-220-4.\
-  <https://pure.eur.nl/en/publications/understanding-welfare-attitudes-a-cultural-sociological-approach/>
+  <https://pure.eur.nl/en/publications/understanding-welfare-attitudes-a-cultural-sociological-approach/>\
+  What does ‘welfare’ mean to people, and how do they respond to prominent political issues in the welfare domain? In my dissertation, I explore how Dutch citizens perceive of welfare, analyzing how people attribute meaning to the phenomenon and how their worldviews inform their responses to key issues in the field. This research employs innovative methods, both qualitative and quantitative, including survey experiments, correlational class analysis, and focus groups, using original small-*n* and large-*n* data. I uncover substantially different meanings attributed to welfare and reveal surprising responses to salient political issues in the domain. In conclude that these varied meanings reflect fundamentally different substantive positions. Furthermore, people’s worldviews can shape welfare attitudes, producing different responses to information about salient issues. These findings have important implications for our understanding of welfare attitudes, as well as for politicians, policymakers and scholar engaged in social policy and public opinion reserarch.
 
 - **Lindner T** (2025) Een goed begrip van opvattingen over sociale zekerheid \[A sound understanding of welfare attitudes\]. *Mens & Maatschappij*, 100(3): 330-334.\
   <https://doi.org/10.5117/MEM2025.3.006.LIND>
@@ -46,9 +48,11 @@ Doctoral dissertation & synthesis articles
 - **Lindner T** (2024) Opvattingen over sociale zekerheid begrijpen: Een cultuursociologische aanpak \[Understanding welfare attitudes: A cultural-sociological approach\]. *Tijdschrift Sociologie*, 5: 92-99.\
   <https://doi.org/10.38139/ts.92168>
 
-## Working papers
+## Preprint and working papers
 
-- **Lindner T**, De Koster W & Van der Waal J (2026) Does exposure to information on ethnic minorities' greater welfare dependency affect attitudes to welfare and welfare recipients? A pre-registered, population-based survey experiment. *Paper presented at European Sociological Assocation Annual Conference* (26-08-2026), Warsaw, Poland.\
+- **Lindner T**, De Koster W & Van der Waal J (2026) Does exposure to information on ethnic minorities' greater welfare dependency affect attitudes to welfare and welfare recipients? A pre-registered, population-based survey experiment. \
   Preprint: <https://doi.org/10.31235/osf.io/6r32b_v2>
+
+- **Lindner T,** Kanas A & Zhelyazkova A (2026) Justifying EU immigration policy implementation at home: Citizens’ conditional support for governmental explanations for domestic implementation. Paper presented at *ESA Annual Conference* (26/08/2026), Warsaw, Poland.
 
 ## 
